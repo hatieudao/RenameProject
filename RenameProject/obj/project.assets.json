@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "RenameRulesLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RenameRulesLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RenameRulesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RenameRulesLib/1.0.0": {
+      "type": "project",
+      "path": "../RenameRulesLib/RenameRulesLib.csproj",
+      "msbuildProject": "../RenameRulesLib/RenameRulesLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "RenameRulesLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\trumb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CSharp\\RenameProject\\RenameProject\\RenameProject.csproj",
+      "projectName": "RenameProject",
+      "projectPath": "D:\\CSharp\\RenameProject\\RenameProject\\RenameProject.csproj",
+      "packagesPath": "C:\\Users\\trumb\\.nuget\\packages\\",
+      "outputPath": "D:\\CSharp\\RenameProject\\RenameProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\trumb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\CSharp\\RenameProject\\RenameRulesLib\\RenameRulesLib.csproj": {
+              "projectPath": "D:\\CSharp\\RenameProject\\RenameRulesLib\\RenameRulesLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

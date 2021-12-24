@@ -1,0 +1,8 @@
+D:\CSharp\RenameProject\ReplaceRule\bin\Debug\ReplaceRule.dll
+D:\CSharp\RenameProject\ReplaceRule\bin\Debug\ReplaceRule.pdb
+D:\CSharp\RenameProject\ReplaceRule\bin\Debug\RenameRulesLib.dll
+D:\CSharp\RenameProject\ReplaceRule\bin\Debug\RenameRulesLib.pdb
+D:\CSharp\RenameProject\ReplaceRule\obj\Debug\ReplaceRule.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\ReplaceRule\obj\Debug\ReplaceRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\ReplaceRule\obj\Debug\ReplaceRule.dll
+D:\CSharp\RenameProject\ReplaceRule\obj\Debug\ReplaceRule.pdb

@@ -1,0 +1,12 @@
+D:\CSharp\RenameProject\RenameRuleLib\bin\Debug\net5.0-windows\RenameRuleLib.deps.json
+D:\CSharp\RenameProject\RenameRuleLib\bin\Debug\net5.0-windows\RenameRuleLib.dll
+D:\CSharp\RenameProject\RenameRuleLib\bin\Debug\net5.0-windows\ref\RenameRuleLib.dll
+D:\CSharp\RenameProject\RenameRuleLib\bin\Debug\net5.0-windows\RenameRuleLib.pdb
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\RenameRuleLib.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\RenameRuleLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\RenameRuleLib.AssemblyInfoInputs.cache
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\RenameRuleLib.AssemblyInfo.cs
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\RenameRuleLib.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\RenameRuleLib.dll
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\ref\RenameRuleLib.dll
+D:\CSharp\RenameProject\RenameRuleLib\obj\Debug\net5.0-windows\RenameRuleLib.pdb

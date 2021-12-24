@@ -1,0 +1,30 @@
+﻿<Window x:Class="RenameProject.GetWord"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RenameProject"
+        mc:Ignorable="d"
+         Title="Get Word Dialog" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Get Word Dialog" Canvas.Left="273" Canvas.Top="10" FontFamily="Comic Sans MS" FontSize="20" Width="223" HorizontalContentAlignment="Center"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Label Content="Intput String: " FontFamily="Comic Sans MS" FontSize="20" />
+            <TextBox Name="wordTextBox"  Height="38" Width="200"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0 20 0 0" HorizontalAlignment="Center">
+            <Button Style="{StaticResource MyButton}" Name="SubmitButton" Click="SubmitButton_Click" Margin="0 0 20 0" Height="30" Width="93">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Images/icons8-checkmark-64.png" Height="24" Width="24" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    <TextBlock Text="Submit" FontFamily="Comic Sans MS" FontSize="20" Margin="0 0 10 0" Height="29" RenderTransformOrigin="0.465,4.122"/>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource MyButton}" Name="CancelButton" Click="CancelButton_Click" Canvas.Left="386" Canvas.Top="239">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Images/icons8-delete-64.png" Height="24" Width="24" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    <TextBlock Text="Cancel" FontFamily="Comic Sans MS" FontSize="20" Margin="5 0 0 0"/>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

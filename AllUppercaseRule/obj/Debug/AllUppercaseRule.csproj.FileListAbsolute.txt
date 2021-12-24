@@ -1,0 +1,8 @@
+D:\CSharp\RenameProject\AllUppercaseRule\bin\Debug\AllUppercaseRule.dll
+D:\CSharp\RenameProject\AllUppercaseRule\bin\Debug\AllUppercaseRule.pdb
+D:\CSharp\RenameProject\AllUppercaseRule\bin\Debug\RenameRulesLib.dll
+D:\CSharp\RenameProject\AllUppercaseRule\bin\Debug\RenameRulesLib.pdb
+D:\CSharp\RenameProject\AllUppercaseRule\obj\Debug\AllUppercaseRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\AllUppercaseRule\obj\Debug\AllUppercaseRule.csproj.CopyComplete
+D:\CSharp\RenameProject\AllUppercaseRule\obj\Debug\AllUppercaseRule.dll
+D:\CSharp\RenameProject\AllUppercaseRule\obj\Debug\AllUppercaseRule.pdb

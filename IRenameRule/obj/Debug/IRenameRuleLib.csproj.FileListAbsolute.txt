@@ -1,0 +1,2 @@
+D:\CSharp\RenameProject\IRenameRule\obj\Debug\IRenameRuleLib.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\IRenameRule\obj\Debug\IRenameRuleLib.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\CSharp\RenameProject\TrimSpaceRule\bin\Debug\TrimSpaceRule.dll
+D:\CSharp\RenameProject\TrimSpaceRule\bin\Debug\TrimSpaceRule.pdb
+D:\CSharp\RenameProject\TrimSpaceRule\bin\Debug\RenameRulesLib.dll
+D:\CSharp\RenameProject\TrimSpaceRule\bin\Debug\RenameRulesLib.pdb
+D:\CSharp\RenameProject\TrimSpaceRule\obj\Debug\TrimSpaceRule.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\TrimSpaceRule\obj\Debug\TrimSpaceRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\TrimSpaceRule\obj\Debug\TrimSpaceRule.csproj.CopyComplete
+D:\CSharp\RenameProject\TrimSpaceRule\obj\Debug\TrimSpaceRule.dll
+D:\CSharp\RenameProject\TrimSpaceRule\obj\Debug\TrimSpaceRule.pdb
