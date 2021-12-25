@@ -78,7 +78,7 @@ namespace RenameProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RenameProject;component/preview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RenameProject;V1.0.0.0;component/preview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Preview.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

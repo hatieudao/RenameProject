@@ -14,7 +14,7 @@ namespace RenameProject
     class RuleParserFactory
     {
         private Dictionary<string, IRenameRule> _prototypes = null;
-        private Dictionary<string, Window> _editDialog = null;
+        // private Dictionary<string, Window> _editDialog = null;
         private static RuleParserFactory _instance = null;
         private RuleParserFactory()
         {

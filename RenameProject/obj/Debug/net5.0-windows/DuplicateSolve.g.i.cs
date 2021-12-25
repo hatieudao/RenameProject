@@ -86,7 +86,7 @@ namespace RenameProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RenameProject;component/duplicatesolve.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RenameProject;V1.0.0.0;component/duplicatesolve.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DuplicateSolve.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

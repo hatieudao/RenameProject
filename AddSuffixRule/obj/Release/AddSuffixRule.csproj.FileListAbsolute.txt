@@ -1,0 +1,8 @@
+D:\CSharp\RenameProject\AddSuffixRule\bin\Release\AddSuffixRule.dll
+D:\CSharp\RenameProject\AddSuffixRule\bin\Release\AddSuffixRule.pdb
+D:\CSharp\RenameProject\AddSuffixRule\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\AddSuffixRule\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\AddSuffixRule\obj\Release\AddSuffixRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\AddSuffixRule\obj\Release\AddSuffixRule.csproj.CopyComplete
+D:\CSharp\RenameProject\AddSuffixRule\obj\Release\AddSuffixRule.dll
+D:\CSharp\RenameProject\AddSuffixRule\obj\Release\AddSuffixRule.pdb

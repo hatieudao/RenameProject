@@ -1,0 +1,9 @@
+D:\CSharp\RenameProject\ChangeCamelCaseRule\bin\Release\ChangeCamelCaseRule.dll
+D:\CSharp\RenameProject\ChangeCamelCaseRule\bin\Release\ChangeCamelCaseRule.pdb
+D:\CSharp\RenameProject\ChangeCamelCaseRule\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\ChangeCamelCaseRule\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\ChangeCamelCaseRule\obj\Release\ChangeCamelCaseRule.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\ChangeCamelCaseRule\obj\Release\ChangeCamelCaseRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\ChangeCamelCaseRule\obj\Release\ChangeCamelCaseRule.csproj.CopyComplete
+D:\CSharp\RenameProject\ChangeCamelCaseRule\obj\Release\ChangeCamelCaseRule.dll
+D:\CSharp\RenameProject\ChangeCamelCaseRule\obj\Release\ChangeCamelCaseRule.pdb

@@ -1,0 +1,9 @@
+D:\CSharp\RenameProject\ChangeExtensionRule\bin\Release\ChangeExtensionRule.dll
+D:\CSharp\RenameProject\ChangeExtensionRule\bin\Release\ChangeExtensionRule.pdb
+D:\CSharp\RenameProject\ChangeExtensionRule\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\ChangeExtensionRule\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\ChangeExtensionRule\obj\Release\ChangeExtensionRule.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\ChangeExtensionRule\obj\Release\ChangeExtensionRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\ChangeExtensionRule\obj\Release\ChangeExtensionRule.csproj.CopyComplete
+D:\CSharp\RenameProject\ChangeExtensionRule\obj\Release\ChangeExtensionRule.dll
+D:\CSharp\RenameProject\ChangeExtensionRule\obj\Release\ChangeExtensionRule.pdb

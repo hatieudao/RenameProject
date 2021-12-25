@@ -40,7 +40,7 @@ namespace RenameProject
             }
             
             NameRule = line.Substring(0, pos);
-            wordTextBox.Text = line.Substring(pos + 1);
+            wordTextBox.Text = line.Substring(pos + 2, line.Length - pos - 3);
         }
     
         private void SubmitButton_Click(object sender, RoutedEventArgs e)

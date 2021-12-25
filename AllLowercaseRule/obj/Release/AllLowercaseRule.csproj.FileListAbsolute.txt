@@ -1,0 +1,9 @@
+D:\CSharp\RenameProject\AllLowercaseRule\bin\Release\AllLowercaseRule.dll
+D:\CSharp\RenameProject\AllLowercaseRule\bin\Release\AllLowercaseRule.pdb
+D:\CSharp\RenameProject\AllLowercaseRule\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\AllLowercaseRule\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\AllLowercaseRule\obj\Release\AllLowercaseRule.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\AllLowercaseRule\obj\Release\AllLowercaseRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\AllLowercaseRule\obj\Release\AllLowercaseRule.csproj.CopyComplete
+D:\CSharp\RenameProject\AllLowercaseRule\obj\Release\AllLowercaseRule.dll
+D:\CSharp\RenameProject\AllLowercaseRule\obj\Release\AllLowercaseRule.pdb

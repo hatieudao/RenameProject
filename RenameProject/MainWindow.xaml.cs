@@ -202,10 +202,11 @@ namespace RenameProject
                     actions[pos] = editedRule;
                 }
             }
-            if (magic == "AddSuffixRule" || magic == "AddPrefixRule" || magic == "ChangeExtension")
+            if (magic == "AddSuffixRule" || magic == "AddPrefixRule" || magic == "ChangeExtensionRule")
             {
+                
                 var screen = new GetWord(rule);
-
+                System.Windows.MessageBox.Show(rule.Details);
                 if (screen.ShowDialog() == true)
                 {
                     var editedRule = factory.Create(magic).Clone(screen.Details);
@@ -325,7 +326,7 @@ namespace RenameProject
                             folder.Newfolder = result;
                             folder.Error = "OK";
                         }
-                        catch (Exception exception) //exception when folder name is duplicate
+                        catch (Exception exception) 
                         {
                             string duplicatestore = System.IO.Path.GetDirectoryName(folder.Path) + "\\Store" + $"{++count}";
                             CopyAll(tempFolderPath, duplicatestore, true);

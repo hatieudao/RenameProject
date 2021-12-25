@@ -1,0 +1,9 @@
+D:\CSharp\RenameProject\ReplaceRule\bin\Release\ReplaceRule.dll
+D:\CSharp\RenameProject\ReplaceRule\bin\Release\ReplaceRule.pdb
+D:\CSharp\RenameProject\ReplaceRule\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\ReplaceRule\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\ReplaceRule\obj\Release\ReplaceRule.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\ReplaceRule\obj\Release\ReplaceRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\ReplaceRule\obj\Release\ReplaceRule.csproj.CopyComplete
+D:\CSharp\RenameProject\ReplaceRule\obj\Release\ReplaceRule.dll
+D:\CSharp\RenameProject\ReplaceRule\obj\Release\ReplaceRule.pdb

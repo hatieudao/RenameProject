@@ -1,0 +1,8 @@
+D:\CSharp\RenameProject\AddPrefixRule\bin\Release\AddPrefixRule.dll
+D:\CSharp\RenameProject\AddPrefixRule\bin\Release\AddPrefixRule.pdb
+D:\CSharp\RenameProject\AddPrefixRule\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\AddPrefixRule\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\AddPrefixRule\obj\Release\AddPrefixRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\AddPrefixRule\obj\Release\AddPrefixRule.csproj.CopyComplete
+D:\CSharp\RenameProject\AddPrefixRule\obj\Release\AddPrefixRule.dll
+D:\CSharp\RenameProject\AddPrefixRule\obj\Release\AddPrefixRule.pdb

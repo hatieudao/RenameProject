@@ -1,0 +1,6 @@
+D:\CSharp\RenameProject\RenameRulesLib\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\RenameRulesLib\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\RenameRulesLib\obj\Release\RenameRulesLib.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\RenameRulesLib\obj\Release\RenameRulesLib.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\RenameRulesLib\obj\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\RenameRulesLib\obj\Release\RenameRulesLib.pdb

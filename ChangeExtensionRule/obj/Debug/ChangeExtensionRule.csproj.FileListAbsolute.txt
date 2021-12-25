@@ -4,6 +4,5 @@ D:\CSharp\RenameProject\ChangeExtensionRule\bin\Debug\RenameRulesLib.dll
 D:\CSharp\RenameProject\ChangeExtensionRule\bin\Debug\RenameRulesLib.pdb
 D:\CSharp\RenameProject\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.AssemblyReference.cache
 D:\CSharp\RenameProject\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.CoreCompileInputs.cache
-D:\CSharp\RenameProject\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.CopyComplete
 D:\CSharp\RenameProject\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.dll
 D:\CSharp\RenameProject\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.pdb

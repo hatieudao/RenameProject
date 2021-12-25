@@ -1,0 +1,9 @@
+D:\CSharp\RenameProject\AddCounterRule\bin\Release\AddCounterRule.dll
+D:\CSharp\RenameProject\AddCounterRule\bin\Release\AddCounterRule.pdb
+D:\CSharp\RenameProject\AddCounterRule\bin\Release\RenameRulesLib.dll
+D:\CSharp\RenameProject\AddCounterRule\bin\Release\RenameRulesLib.pdb
+D:\CSharp\RenameProject\AddCounterRule\obj\Release\AddCounterRule.csproj.AssemblyReference.cache
+D:\CSharp\RenameProject\AddCounterRule\obj\Release\AddCounterRule.csproj.CoreCompileInputs.cache
+D:\CSharp\RenameProject\AddCounterRule\obj\Release\AddCounterRule.csproj.CopyComplete
+D:\CSharp\RenameProject\AddCounterRule\obj\Release\AddCounterRule.dll
+D:\CSharp\RenameProject\AddCounterRule\obj\Release\AddCounterRule.pdb
