@@ -136,7 +136,10 @@ namespace RenameProject
                 string result = file.Filename;
                 foreach (var action in actions)
                 {
-                    result = action.Rename(result);
+                    if(action.Details.Trim().IndexOf(' ') != -1)
+                    {
+                        result = action.Rename(result);
+                    }
                 }
                 file.Newfilename = result;
 
@@ -213,6 +216,7 @@ namespace RenameProject
                     actions[pos] = editedRule;
                 }
             }
+            GetPreview();
         }
 
         public static void CopyAll(string sourceDirName, string destDirName, bool copySubDirs)

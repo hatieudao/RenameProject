@@ -94,7 +94,7 @@ namespace RenameProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RenameProject;V1.0.0.0;component/replaceruleedit.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RenameProject;component/replaceruleedit.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ReplaceRuleEdit.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

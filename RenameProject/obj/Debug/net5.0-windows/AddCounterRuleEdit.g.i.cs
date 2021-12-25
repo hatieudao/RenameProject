@@ -118,7 +118,7 @@ namespace RenameProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RenameProject;V1.0.0.0;component/addcounterruleedit.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RenameProject;component/addcounterruleedit.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddCounterRuleEdit.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
